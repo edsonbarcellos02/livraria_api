@@ -1,7 +1,7 @@
 
 # Projeto de API de Livraria com Node.js e MongoDB
 
-Este projeto consiste no desenvolvimento de uma API para gerenciar uma livraria, utilizando Node.js e MongoDB. A API permite realizar operações CRUD (Create, Read, Update, Delete) para livros, autores e gêneros literários. Com uma arquitetura RESTful, a API oferece endpoints seguros e eficientes para a integração com aplicações front-end e outras plataformas.
+Este projeto consiste no desenvolvimento de uma API para gerenciar uma livraria, utilizando Node.js e MongoDB. A API permite realizar operações CRUD (Create, Read, Update, Delete) para livros, autores. Com uma arquitetura RESTful, a API oferece endpoints para a integração com aplicações front-end e outras plataformas.
 
 
 ## Funcionalidades
